@@ -66,8 +66,8 @@ Hardware
 
 Software
 
-1. Web Browser.
-2. Git 6.
+1. Web Browser
+2. Git
 3. Code editor
 
 ### Setup
