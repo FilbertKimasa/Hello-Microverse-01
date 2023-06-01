@@ -2,7 +2,7 @@
 
 <div align="center">
   <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="./cofee_logo.png" alt="logo" width="140"  height="auto" />
+  <img src="./coffee_logo.png" alt="logo" width="140"  height="auto" />
   <br/>
 
   <h3><b>HELLO-MICROVERSE PROJECT</b></h3>
