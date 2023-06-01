@@ -2,7 +2,7 @@
 
 <div align="center">
   <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="./coffee-logo.png" alt="logo" width="140"  height="auto" />
+  <img src="./coffee-logo.png" alt="logo" width="100"  height="auto" />
   <br/>
 
   <h3><b>HELLO-MICROVERSE PROJECT</b></h3>
@@ -129,7 +129,7 @@ I would like to thank my Microverse studying partners and my standup team for he
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## ❓ FAQ (OPTIONAL) <a name="faq"></a>
+## ❓ FAQ <a name="faq"></a>
 
 - **[can this project run on linux operating system?]**
 
