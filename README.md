@@ -29,9 +29,9 @@
 - [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
-# 📖 [Hello Microverse] <a name="about-project"></a>
+# 📖 Hello Microverse <a name="about-project"></a>
 
-**[Hello Microverse]** is a project to say hello to the Miroverse Wolrd.
+**Hello Microverse** is a project to say hello to the Miroverse Wolrd.
 
 ## 🛠 Built With <a name="built-with"></a>
 
