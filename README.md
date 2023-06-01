@@ -94,8 +94,6 @@ Install this project with the following commmands in the terminal:
   4. npm install --save-dev hint@7.x
 ```
 
---->
-
 ### Usage
 
 To run the project,
@@ -103,8 +101,6 @@ To run the project,
 ```sh
   Open the browser and enter the adress of index.html file from your computer/server
 ```
-
---->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
