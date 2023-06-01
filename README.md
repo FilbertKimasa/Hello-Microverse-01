@@ -2,10 +2,10 @@
 
 <div align="center">
   <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="./coffee-logo.png" alt="logo" width="100"  height="auto" />
+  <img src="./coffee-logo.png" alt="logo" width="120"  height="auto" />
   <br/>
 
-  <h3><b>HELLO-MICROVERSE PROJECT</b></h3>
+  <h2><b>HELLO-MICROVERSE PROJECT</b></h2>
 
 </div>
 
