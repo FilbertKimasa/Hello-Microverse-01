@@ -64,7 +64,11 @@ Hardware
 1. at leats 4 GB RAM
 2. Internal disk space of at least 2 GB
 
-Software 4. Web Browser. 5. Git 6. Code editor
+Software
+
+1. Web Browser.
+2. Git 6.
+3. Code editor
 
 ### Setup
 
