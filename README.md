@@ -1,36 +1,11 @@
 <a name="readme-top"></a>
 
-<!--
-HOW TO USE:
-This is an example of how you may give instructions on setting up your project locally.
-
-Modify this file to match your project and remove sections that don't apply.
-
-REQUIRED SECTIONS:
-- Table of Contents
-- About the Project
-  - Built With
-  - Live Demo
-- Getting Started
-- Authors
-- Future Features
-- Contributing
-- Show your support
-- Acknowledgements
-- License
-
-OPTIONAL SECTIONS:
-- FAQ
-
-After you're finished please remove all the comments and instructions!
--->
-
 <div align="center">
   <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="cofee_logo.png" alt="logo" width="140"  height="auto" />
+  <img src="./cofee_logo.png" alt="logo" width="140"  height="auto" />
   <br/>
 
-  <h3><b>HELLO-MICROVERSE README FILE</b></h3>
+  <h3><b>HELLO-MICROVERSE PROJECT</b></h3>
 
 </div>
 
@@ -42,16 +17,12 @@ After you're finished please remove all the comments and instructions!
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
   - [Install](#install)
   - [Usage](#usage)
-  - [Run tests](#run-tests)
-  - [Deployment](#deployment)
 - [👥 Authors](#authors)
-- [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
@@ -74,19 +45,11 @@ After you're finished please remove all the comments and instructions!
   </ul>
 </details>
 
-<!-- Features -->
-
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
-
-- **[Displays a greating to the microverse world]**
+-Displays a greating to the microverse world
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
@@ -96,22 +59,19 @@ To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
-In order to run this project you need:
+Hardware
 
-<!--
-Example command:
+1. at leats 4 GB RAM
+2. Internal disk space of at least 2 GB
 
-```sh
- A browser
-```
- -->
+Software 4. Web Browser. 5. Git 6. Code editor
 
 ### Setup
 
 Clone this repository to your desired folder:
 
 <!--
-Example commands:
+Enter the following commands in the terminal
 
 ```sh
   cd my-folder
@@ -121,68 +81,47 @@ Example commands:
 
 ### Install
 
-Install this project with:
-
-<!--
-Example command:
+Install this project with the following commmands in the terminal:
 
 ```sh
-  cd my-project
-  gem install
+  1. npm init -y
+  2. cd my-project
+  3. npm install --save-dev stylelint@13.x stylelint-scss@3.x stylelint-config-standard@21.x stylelint-csstree-validator@1.x
+  4. npm install --save-dev hint@7.x
 ```
+
 --->
 
 ### Usage
 
 To run the project,
 
-<!--
-  rails server: Open the browser and enter the adress of index.html file from your computer
-
 ```sh
-  rails server: Open the browser and enter the adress of index.html file from your computer
+  Open the browser and enter the adress of index.html file from your computer/server
 ```
---->
 
-### Run tests
-
-To run tests, run the following command:
-
-<!--
-Example command:
-
-```sh
-  bin/rails test test/models/article_test.rb
-```
 --->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHORS -->
 
-## 👥 Author <a name="Filbert"></a>
+## 👥 Author <a name="Authors"></a>
 
-> Mention all of the collaborators of this project.
+👤 **Filbert Daniel**
 
-👤 **Author**
-
-- GitHub: [@githubhandle](https://github.com/FilbertKimasa/Hello-Microverse.git)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
+- GitHub: [@githubhandle](https://github.com/FilbertKimasa)
+- Twitter: [@twitterhandle](https://twitter.com)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/filbert-daniel-32b118143)
 
-<!-- FUTURE FEATURES -->
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- SUPPORT -->
 
 ## ⭐️ Show your support <a name="support"></a>
 
-If you like this project please give it a star, you are welcome to any suggestion
+If you like this project please give it a star and follow me on github linkedIn and Twitter
+, you are also welcome for any suggestions🙏
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
@@ -190,19 +129,13 @@ I would like to thank my Microverse studying partners and my standup team for he
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- FAQ (optional) -->
-
 ## ❓ FAQ (OPTIONAL) <a name="faq"></a>
-
-> Add at least 2 questions new developers would ask when they decide to use your project.
 
 - **[can this project run on linux operating system?]**
 
-  - [Hello-Microverse project can run on any operating system, like all versions of windows, linux distibutiond, Mac OS and others]
+  - [Hello-Microverse project can run on any operating system, like all versions of windows, linux distibutions, Mac OS and others]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LICENSE -->
 
 ## 📝 License <a name="license"></a>
 
