@@ -115,7 +115,7 @@ To run the project,
 
 ## 🤝 contributing <a name="contributing"></a>
 
-Yua are welcome, and click <a href="https://github.com/FilbertKimasa/Hello-Microverse/issues">here</a>for contribution, issues, and Feature request 🙏
+You are welcome, and click <a href="https://github.com/FilbertKimasa/Hello-Microverse/issues">here</a> for contribution, issues, and feature request 🙏
 
 ## ⭐️ Show your support <a name="support"></a>
 
