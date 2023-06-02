@@ -1,7 +1,6 @@
 <a name="readme-top"></a>
 
 <div align="center">
-  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
   <img src="./coffee-logo.png" alt="logo" width="120"  height="auto" />
   <br/>
 
@@ -9,14 +8,13 @@
 
 </div>
 
-<!-- TABLE OF CONTENTS -->
-
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
+    - [Future Features](#Future-features)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
@@ -29,9 +27,9 @@
 - [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
-# 📖 [Hello Microverse] <a name="about-project"></a>
+# 📖 Hello Microverse <a name="about-project"></a>
 
-**[Hello Microverse]** is a project to say hello to the Miroverse Wolrd.
+**Hello Microverse** is a project to say hello to the Miroverse Wolrd.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -51,9 +49,15 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 💻 Getting Started <a name="getting-started"></a>
+### Future Features <a name="Future-features"></a>
 
-To get a local copy up and running, follow these steps.
+- Add some more HTML content
+- Intergration with javascript
+- Intergration with database
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 💻 Getting Started <a name="getting-started"></a>
 
 ### Prerequisites
 
@@ -70,16 +74,11 @@ Software
 
 ### Setup
 
-Clone this repository to your desired folder:
-
-<!--
-Enter the following commands in the terminal
+Clone this repository to your desired folder Enter the following commands in the terminal:
 
 ```sh
-  cd my-folder
   git clone https://github.com/FilbertKimasa/Hello-Microverse.git
 ```
---->
 
 ### Install
 
@@ -104,15 +103,19 @@ To run the project,
 
 <!-- AUTHORS -->
 
-## 👥 Author <a name="Authors"></a>
+## 👥 Author <a name="authors"></a>
 
 👤 **Filbert Daniel**
 
 - GitHub: [@githubhandle](https://github.com/FilbertKimasa)
-- Twitter: [@twitterhandle](https://twitter.com)
+- Twitter: [@twitterhandle](https://twitter.com/filbertdan67)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/filbert-daniel-32b118143)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🤝 contributing <a name="contributing"></a>
+
+Yua are welcome, and click <a href="https://github.com/FilbertKimasa/Hello-Microverse/issues">here</a>for contribution, issues, and Feature request 🙏
 
 ## ⭐️ Show your support <a name="support"></a>
 
@@ -129,14 +132,14 @@ I would like to thank my Microverse studying partners and my standup team for he
 
 ## ❓ FAQ <a name="faq"></a>
 
-- **[can this project run on linux operating system?]**
+- **can this project run on linux operating system?**
 
-  - [Hello-Microverse project can run on any operating system, like all versions of windows, linux distibutions, Mac OS and others]
+  - Hello-Microverse project can run on any operating system, like all versions of windows, linux distibutions, Mac OS and others
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./MIT.md) licensed.
+This project is MIT(./MIT.md) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
