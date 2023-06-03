@@ -14,17 +14,20 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-    - [Future Features](#Future-features)
+  - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
   - [Install](#install)
   - [Usage](#usage)
+  - [Run tests](#run-tests)
+  - [Deployment](#deployment)
 - [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ (OPTIONAL)](#faq)
+- [❓ FAQ](#faq)
 - [📝 License](#license)
 
 # 📖 Hello Microverse <a name="about-project"></a>
@@ -49,11 +52,9 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### Future Features <a name="Future-features"></a>
+## 🚀 Live Demo <a name="live-demo"></a>
 
-- Add some more HTML content
-- Intergration with javascript
-- Intergration with database
+- Working in progress...
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -99,9 +100,20 @@ To run the project,
   Open the browser and enter the adress of index.html file from your computer/server
 ```
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+### Run tests
 
-<!-- AUTHORS -->
+```sh
+   1. npx hint .
+   2. npx stylelint "**/*.{css,scss}"
+```
+
+### Deployment
+
+```sh
+   Working on progress...
+```
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 👥 Author <a name="authors"></a>
 
@@ -110,6 +122,14 @@ To run the project,
 - GitHub: [@githubhandle](https://github.com/FilbertKimasa)
 - Twitter: [@twitterhandle](https://twitter.com/filbertdan67)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/filbert-daniel-32b118143)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🔭 Future Features <a name="future-features"></a>
+
+- [ ] **Add some more HTML content**
+- [ ] **Intergration with javascript**
+- [ ] **Intergration with database**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
