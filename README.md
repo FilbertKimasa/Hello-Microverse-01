@@ -150,14 +150,6 @@ I would like to thank my Microverse studying partners and my standup team for he
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## ❓ FAQ <a name="faq"></a>
-
-- **can this project run on linux operating system?**
-
-  - Hello-Microverse project can run on any operating system, like all versions of windows, linux distibutions, Mac OS and others
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 ## 📝 License <a name="license"></a>
 
 This project is MIT(./MIT.md) licensed.
